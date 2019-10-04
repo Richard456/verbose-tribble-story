@@ -1,0 +1,7 @@
+Once upon a time, there was a famous coder living in a city called Nosidam. 
+He wrote a miraculous algorithm that could solve any problem and dispute in the kingdom.
+It worked so effectively that the rulers didn’t sit by a large round table to hold meetings anymore. 
+Instead, they sit in front of computers, stared at these little screens, and did whatever was instructed by
+the algorithm.
+This system functioned so perfectly until one day there was a bug detected by an engineer. 
+
