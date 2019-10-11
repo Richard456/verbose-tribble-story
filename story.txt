@@ -5,3 +5,8 @@ Instead, they sit in front of computers, stared at these little screens, and did
 the algorithm.
 This system functioned so perfectly until one day there was a bug detected by an engineer. 
 
+Since the kingdom's economy and policies relied on the algorithm to work
+properly, the bug caused panic and disarray. Critical situation was declared in
+Nosidam. And when almost all hope was lost one brave man decided to find a
+programmer talanted enough to fix such a bug. His first destinatin was a small
+town in Wisconsin, called Madison.
