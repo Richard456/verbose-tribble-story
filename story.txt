@@ -20,3 +20,7 @@ The ruler became so happy and wanted to hire them forever, but they rejected his
 became legend. They show up only when bug show up, and they help people needed and remain as
 a mystery team.
 
+Actually, the members of this team are all students and they are still taking cs400. The reason why
+they managed to fix the bugs was all by luck. However, they knew that luck could not be with them forever,
+and skills are the one really matters. Therefore, they decided to work hard in cs400 and become real legend
+in the future.
