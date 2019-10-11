@@ -8,5 +8,10 @@ This system functioned so perfectly until one day there was a bug detected by an
 Since the kingdom's economy and policies relied on the algorithm to work
 properly, the bug caused panic and disarray. Critical situation was declared in
 Nosidam. And when almost all hope was lost one brave man decided to find a
-programmer talanted enough to fix such a bug. His first destinatin was a small
+programmer talented enough to fix such a bug. His first destinatin was a small
 town in Wisconsin, called Madison.
+
+The engineer went crazy searching for this individual, when he came across a talented programmer!
+He told the engineer that he could fix this bug but he would need his team to help, they are called
+xteam 102 - International Squad. The team went straight to work and were able to defeat the bug and 
+restore peace to the Kingdom.
